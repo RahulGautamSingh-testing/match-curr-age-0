@@ -4,5 +4,6 @@
       "matchCurrentAge": "> 1 years",
       "enabled": false
     }
-  ]
+  ],
+  "prHourlyLimit": 10
 }
