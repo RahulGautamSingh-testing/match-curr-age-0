@@ -2,7 +2,7 @@
   "dependencies": {
     "xmldoc": "1.1.0",
     "chalk": "4.1.2",
-    "nodemon": "3.0.0"
+    "nodemon": "3.0.1"
   },
   "prHourlyLimit": 10
 }
